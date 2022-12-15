@@ -19,6 +19,11 @@
     background: #dee2e6;
 }
 
+.card {
+    background: #6361af !important;
+    color: #dee2e6;
+}
+
 .helper-text {
     display: none;
 }
